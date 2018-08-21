@@ -15,7 +15,15 @@
 - tab-navigation order must be logical
 - preserve new-lines from textarea in readonly view
 - nadenken over default knop om het formulier te versturen
+- testen op responsive design
+- stilstaan bij auto-suggest en bewust aan/uitzetten
+- bij verlaten formulier en data is nog niet verstuurd: waarschuwing geven en bevestiging vragen
 
 ## Transformation
 - Trimming (removal of leading and trailing spaces).
 - To upper case / To lower case / ...
+
+
+## Optimistic locking
+
+## Analytics
