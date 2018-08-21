@@ -5,6 +5,16 @@
   - Visually: "*" or "(optional)" next to label
 - Specific format required
   - Visually: specify expected format in the placeholder text or in the label. Mind that the placeholder dissapears when typing.
+- tekstuele foutmelding bij het veld zelf zetten
+- validatie pas 'on blur' triggeren
+- input mask kan ook nuttig zijn (https://nosir.github.io/cleave.js/ of https://unmanner.github.io/imaskjs/)
+
+
+## Extra's
+- focus op het eerste input veld bij het openen van een formulier
+- tab-navigation order must be logical
+- preserve new-lines from textarea in readonly view
+- nadenken over default knop om het formulier te versturen
 
 ## Transformation
 - Trimming (removal of leading and trailing spaces).
